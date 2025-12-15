@@ -118,7 +118,6 @@ Invalid input results in an **"INVALID INPUT"** ⛔ message and program terminat
 ## 🏗️ Code Structure
 
 ### 📦 Data Structures:
-### 📦 Data Structures:
   - `Player` 👤: Stores player name and score
   - `Object` 🎴: Stores object name, positions, and found status
   - `Board` 🎯: Contains game configuration and state
